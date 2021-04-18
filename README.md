@@ -28,6 +28,7 @@
 This project was developed using the following technologies:
 
 - [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 - [Typescript](https://www.typescriptlang.org)
 - [Storybook](https://storybook.js.org/)
 - [Jest](https://jestjs.io/)
