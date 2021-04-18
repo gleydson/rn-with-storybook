@@ -2,6 +2,7 @@ import React from 'react';
 import { SafeAreaView, StyleSheet, View } from 'react-native';
 
 import { StatusBar } from 'expo-status-bar';
+
 import RepositoryList from './components/RepositoryList/RepositoryList';
 
 export default function App() {
