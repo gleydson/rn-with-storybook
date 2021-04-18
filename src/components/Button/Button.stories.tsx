@@ -1,6 +1,6 @@
 import React from 'react';
-import { storiesOf } from '@storybook/react-native';
 
+import { storiesOf } from '@storybook/react-native';
 import { action } from '@storybook/addon-actions';
 import { withKnobs, text } from '@storybook/addon-knobs';
 
