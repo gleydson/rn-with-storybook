@@ -1,6 +1,6 @@
 import React from 'react';
-import { storiesOf } from '@storybook/react-native';
 
+import { storiesOf } from '@storybook/react-native';
 import { withKnobs, object } from '@storybook/addon-knobs';
 
 import RepositoryItem from './RepositoryItem';
