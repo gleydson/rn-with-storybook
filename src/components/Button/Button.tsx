@@ -1,6 +1,6 @@
 import React from 'react';
-import { Container, Text } from './styles';
 
+import { Container, Text } from './styles';
 import { ButtonProps } from './types';
 
 export default function Button({ children, ...rest }: ButtonProps) {
